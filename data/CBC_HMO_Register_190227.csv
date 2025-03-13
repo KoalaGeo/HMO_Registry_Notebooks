@@ -1,6 +1,4 @@
-﻿uprn,House No,Street,Town,Post Code,Expiry Date,"Persons
-Licensed 
-For:"
+﻿uprn,house number,street,town,postcode,licence expiry,permitted no of occupiers
 10004000811,3,Adam Dale,Loughborough,LE11 3HD,11/11/2023,6
 10004000813,5,Adam Dale,Loughborough,LE11 3HD,07/02/2024,5
 10004000818,10,Adam Dale,Loughborough,LE11 3HD,15/10/2022,6
